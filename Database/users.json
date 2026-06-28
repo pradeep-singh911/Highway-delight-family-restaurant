@@ -1,0 +1,26 @@
+[
+    {
+        "email": "psk@gmail.com",
+        "name": "pradeep",
+        "mobile": "8003062562",
+        "experience": "1",
+        "role": "staff",
+        "password": "pradeep@01"
+    },
+    {
+        "email": "yuvi@gmail.com",
+        "name": "yuvraj",
+        "mobile": "9462201076",
+        "experience": "4",
+        "role": "staff",
+        "password": "yuvrajs@1"
+    },
+    {
+        "email": "mayankj@gmail.com",
+        "name": "mayank",
+        "mobile": "9452204372",
+        "experience": "2",
+        "role": "staff",
+        "password": "mayank@01"
+    }
+]

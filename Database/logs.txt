@@ -1,0 +1,30 @@
+[2026-06-28 09:26:58] | ACTOR: UNKNOWN | ACTION: Unauthorized sign-up attempt | DETAILS: Role attempted: pradeep@gmail.com
+[2026-06-28 09:27:52] | ACTOR: UNKNOWN | ACTION: Unauthorized sign-up attempt | DETAILS: Role attempted: admin@highwaydelight.com"
+[2026-06-28 09:28:28] | ACTOR: UNKNOWN | ACTION: Unauthorized sign-up attempt | DETAILS: Role attempted: admin@highwaydelight.com
+[2026-06-28 09:30:50] | ACTOR: STAFF | ACTION: Sign-up validation failed | DETAILS: Email: psksuncity@gmail.com
+[2026-06-28 09:31:22] | ACTOR: STAFF | ACTION: Staff registered | DETAILS: Email: psk@gmail.com, Name: pradeep
+[2026-06-28 09:31:41] | ACTOR: STAFF | ACTION: Staff signed in | DETAILS: Email: psk@gmail.com, Name: pradeep
+[2026-06-28 09:33:43] | ACTOR: STAFF | ACTION: Table booked | DETAILS: ID: BK001, Table: T6, Date: 2026-06-29, Time: 11:00, Customer: prakash
+[2026-06-28 09:35:46] | ACTOR: STAFF | ACTION: Invalid item in order | DETAILS: Code: 7
+[2026-06-28 09:35:46] | ACTOR: STAFF | ACTION: Order failed - no valid items | DETAILS: Table: T6
+[2026-06-28 09:35:55] | ACTOR: STAFF | ACTION: Order failed - invalid table | DETAILS: Table: 7
+[2026-06-28 09:36:44] | ACTOR: STAFF | ACTION: Order failed - invalid table | DETAILS: Table: 6
+[2026-06-28 09:37:11] | ACTOR: STAFF | ACTION: Order placed | DETAILS: ID: ORD0001, Table: T6, Items: TH01, S001, M001, B001
+[2026-06-28 09:37:28] | ACTOR: STAFF | ACTION: Bill generated | DETAILS: ID: BILL0001, Table: T6, Total: ₹735.0, Customer: prakash
+[2026-06-28 09:44:50] | ACTOR: STAFF | ACTION: Staff signed in | DETAILS: Email: psk@gmail.com, Name: pradeep
+[2026-06-28 09:48:07] | ACTOR: ADMIN | ACTION: Admin signed in | DETAILS: Email: admin@highwaydelight.com
+[2026-06-28 10:55:54] | ACTOR: STAFF | ACTION: Staff registered | DETAILS: Email: yuvi@gmial.com, Name: yuvraj
+[2026-06-28 10:56:12] | ACTOR: UNKNOWN | ACTION: Sign-in failed | DETAILS: Email: yuvi@gmail.com
+[2026-06-28 10:56:25] | ACTOR: UNKNOWN | ACTION: Sign-in failed | DETAILS: Email: yuvi@gmail.com
+[2026-06-28 11:03:19] | ACTOR: STAFF | ACTION: Staff registered | DETAILS: Email: mayankj@gmail.com, Name: mayank
+[2026-06-28 11:03:39] | ACTOR: UNKNOWN | ACTION: Sign-in failed | DETAILS: Email: mayankj@gmai.com
+[2026-06-28 11:08:18] | ACTOR: STAFF | ACTION: Staff signed in | DETAILS: Email: mayankj@gmail.com, Name: mayank
+[2026-06-28 12:32:57] | ACTOR: STAFF | ACTION: Staff signed in | DETAILS: Email: psk@gmail.com, Name: pradeep
+[2026-06-28 12:33:24] | ACTOR: UNKNOWN | ACTION: Sign-in failed | DETAILS: Email: yuvi@gmail.com
+[2026-06-28 12:33:38] | ACTOR: UNKNOWN | ACTION: Sign-in failed | DETAILS: Email: yuvi@gmail.com
+[2026-06-28 12:34:11] | ACTOR: UNKNOWN | ACTION: Sign-in failed | DETAILS: Email: yuvi@gmail.com
+[2026-06-28 12:34:39] | ACTOR: STAFF | ACTION: Staff signed in | DETAILS: Email: yuvi@gmail.com, Name: yuvraj
+[2026-06-28 12:37:39] | ACTOR: STAFF | ACTION: Staff signed in | DETAILS: Email: yuvi@gmail.com, Name: yuvraj
+[2026-06-28 12:38:21] | ACTOR: STAFF | ACTION: Table booked | DETAILS: ID: BK002, Table: T4, Date: 2026-06-30, Time: 13:45, Customer: diya singh
+[2026-06-28 12:41:46] | ACTOR: STAFF | ACTION: Order placed | DETAILS: ID: ORD0002, Table: T4, Items: S001, S002, S004, S006, S004, S006, S008, M001, M002, M003, M003, M005, M006, M007, M007, M008, M012, M013, M014, TH01, B003, B003, B004, B005, B005, R003, R003, R003, DR01, DR01, DR01, DR01, DR05, DR05, DR05, DR05, DR05
+[2026-06-28 12:42:05] | ACTOR: STAFF | ACTION: Bill generated | DETAILS: ID: BILL0002, Table: T4, Total: ₹5171.25, Customer: diya singh

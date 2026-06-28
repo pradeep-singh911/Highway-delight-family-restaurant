@@ -1,0 +1,24 @@
+[
+    {
+        "booking_id": "BK001",
+        "table": "T6",
+        "name": "prakash",
+        "mobile": "9003075532",
+        "guests": 8,
+        "date": "2026-06-29",
+        "time": "11:00",
+        "status": "completed",
+        "timestamp": "2026-06-28 09:33:43"
+    },
+    {
+        "booking_id": "BK002",
+        "table": "T4",
+        "name": "diya singh",
+        "mobile": "8003064478",
+        "guests": 8,
+        "date": "2026-06-30",
+        "time": "13:45",
+        "status": "completed",
+        "timestamp": "2026-06-28 12:38:21"
+    }
+]

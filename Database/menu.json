@@ -1,0 +1,373 @@
+[
+    {
+        "code": "S001",
+        "name": "Pyaaz Ki Kachori",
+        "category": "Starter",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "S002",
+        "name": "Dal Baati (2 pcs)",
+        "category": "Starter",
+        "price": 120,
+        "available": true
+    },
+    {
+        "code": "S003",
+        "name": "Mirchi Vada",
+        "category": "Starter",
+        "price": 60,
+        "available": true
+    },
+    {
+        "code": "S004",
+        "name": "Mawa Kachori",
+        "category": "Starter",
+        "price": 90,
+        "available": true
+    },
+    {
+        "code": "S005",
+        "name": "Paneer Tikka",
+        "category": "Starter",
+        "price": 180,
+        "available": true
+    },
+    {
+        "code": "S006",
+        "name": "Hara Bhara Kabab (6 pcs)",
+        "category": "Starter",
+        "price": 150,
+        "available": true
+    },
+    {
+        "code": "S007",
+        "name": "Veg Seekh Kabab (6 pcs)",
+        "category": "Starter",
+        "price": 160,
+        "available": true
+    },
+    {
+        "code": "S008",
+        "name": "Aloo Tikki Chaat",
+        "category": "Starter",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "M001",
+        "name": "Dal Baati Churma (Thali)",
+        "category": "Main Course",
+        "price": 280,
+        "available": true
+    },
+    {
+        "code": "M002",
+        "name": "Gatte Ki Sabzi",
+        "category": "Main Course",
+        "price": 160,
+        "available": true
+    },
+    {
+        "code": "M003",
+        "name": "Gulab jamin ki sabzi",
+        "category": "Main Course",
+        "price": 200,
+        "available": true
+    },
+    {
+        "code": "M004",
+        "name": "Ker Sangri",
+        "category": "Main Course",
+        "price": 180,
+        "available": true
+    },
+    {
+        "code": "M005",
+        "name": "Panchmel Dal",
+        "category": "Main Course",
+        "price": 150,
+        "available": true
+    },
+    {
+        "code": "M006",
+        "name": "Malai kofta",
+        "category": "Main Course",
+        "price": 160,
+        "available": true
+    },
+    {
+        "code": "M007",
+        "name": "Paneer Laal Mirch",
+        "category": "Main Course",
+        "price": 240,
+        "available": true
+    },
+    {
+        "code": "M008",
+        "name": "Rajasthani Kadhi",
+        "category": "Main Course",
+        "price": 140,
+        "available": true
+    },
+    {
+        "code": "M009",
+        "name": "Aloo Mangodi",
+        "category": "Main Course",
+        "price": 150,
+        "available": true
+    },
+    {
+        "code": "M010",
+        "name": "Papad Ki Sabzi",
+        "category": "Main Course",
+        "price": 130,
+        "available": true
+    },
+    {
+        "code": "M011",
+        "name": "Mix Veg Masala",
+        "category": "Main Course",
+        "price": 160,
+        "available": true
+    },
+    {
+        "code": "M012",
+        "name": "Shahi Paneer",
+        "category": "Main Course",
+        "price": 240,
+        "available": true
+    },
+    {
+        "code": "M013",
+        "name": "Kaju dakh (Special)",
+        "category": "Main Course",
+        "price": 300,
+        "available": true
+    },
+    {
+        "code": "M014",
+        "name": "Lasan chutney",
+        "category": "Main Course",
+        "price": 240,
+        "available": true
+    },
+    {
+        "code": "TH01",
+        "name": "Highway Delight Thali",
+        "category": "Thali",
+        "price": 320,
+        "available": true
+    },
+    {
+        "code": "TH02",
+        "name": "Rajasthani Royal Thali",
+        "category": "Thali",
+        "price": 380,
+        "available": true
+    },
+    {
+        "code": "TH03",
+        "name": "Mini Thali",
+        "category": "Thali",
+        "price": 200,
+        "available": true
+    },
+    {
+        "code": "B001",
+        "name": "Bajra Roti",
+        "category": "Bread",
+        "price": 20,
+        "available": true
+    },
+    {
+        "code": "B002",
+        "name": "Makki Ki Roti",
+        "category": "Bread",
+        "price": 25,
+        "available": true
+    },
+    {
+        "code": "B003",
+        "name": "Tandoori Roti",
+        "category": "Bread",
+        "price": 25,
+        "available": true
+    },
+    {
+        "code": "B004",
+        "name": "Butter Naan",
+        "category": "Bread",
+        "price": 40,
+        "available": true
+    },
+    {
+        "code": "B005",
+        "name": "Laccha Paratha",
+        "category": "Bread",
+        "price": 50,
+        "available": true
+    },
+    {
+        "code": "B006",
+        "name": "Missi Roti",
+        "category": "Bread",
+        "price": 30,
+        "available": true
+    },
+    {
+        "code": "B007",
+        "name": "Garlic Naan",
+        "category": "Bread",
+        "price": 50,
+        "available": true
+    },
+    {
+        "code": "R001",
+        "name": "Steamed Rice",
+        "category": "Rice",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "R002",
+        "name": "Veg Biryani",
+        "category": "Rice",
+        "price": 180,
+        "available": true
+    },
+    {
+        "code": "R003",
+        "name": "Rajasthani Pulao",
+        "category": "Rice",
+        "price": 160,
+        "available": true
+    },
+    {
+        "code": "R004",
+        "name": "Jeera Rice",
+        "category": "Rice",
+        "price": 100,
+        "available": true
+    },
+    {
+        "code": "D001",
+        "name": "Churma Ladoo (2 pcs)",
+        "category": "Dessert",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "D002",
+        "name": "Malpua with Rabdi",
+        "category": "Dessert",
+        "price": 120,
+        "available": true
+    },
+    {
+        "code": "D003",
+        "name": "Ghevar",
+        "category": "Dessert",
+        "price": 100,
+        "available": true
+    },
+    {
+        "code": "D004",
+        "name": "Gulab Jamun (2 pcs)",
+        "category": "Dessert",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "D005",
+        "name": "Moong Dal Halwa",
+        "category": "Dessert",
+        "price": 110,
+        "available": true
+    },
+    {
+        "code": "D006",
+        "name": "Rabdi",
+        "category": "Dessert",
+        "price": 90,
+        "available": true
+    },
+    {
+        "code": "D007",
+        "name": "Balushahi (2 pcs)",
+        "category": "Dessert",
+        "price": 70,
+        "available": true
+    },
+    {
+        "code": "D008",
+        "name": "Fruit Cream",
+        "category": "Dessert",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "DR01",
+        "name": "Masala Chaas (Buttermilk)",
+        "category": "Drinks",
+        "price": 50,
+        "available": true
+    },
+    {
+        "code": "DR02",
+        "name": "Aam Panna",
+        "category": "Drinks",
+        "price": 60,
+        "available": true
+    },
+    {
+        "code": "DR03",
+        "name": "Rose Sharbat",
+        "category": "Drinks",
+        "price": 60,
+        "available": true
+    },
+    {
+        "code": "DR04",
+        "name": "Thandai",
+        "category": "Drinks",
+        "price": 80,
+        "available": true
+    },
+    {
+        "code": "DR05",
+        "name": " Makhaniya Lassi (Sweet)",
+        "category": "Drinks",
+        "price": 85,
+        "available": true
+    },
+    {
+        "code": "DR06",
+        "name": "Lassi (Salted)",
+        "category": "Drinks",
+        "price": 70,
+        "available": true
+    },
+    {
+        "code": "DR07",
+        "name": "Fresh Lime Soda",
+        "category": "Drinks",
+        "price": 60,
+        "available": true
+    },
+    {
+        "code": "DR08",
+        "name": "Masala Chai",
+        "category": "Drinks",
+        "price": 30,
+        "available": true
+    },
+    {
+        "code": "DR09",
+        "name": "Mineral Water (1L)",
+        "category": "Drinks",
+        "price": 30,
+        "available": true
+    }
+]

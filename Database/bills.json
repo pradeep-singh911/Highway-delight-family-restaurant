@@ -1,0 +1,214 @@
+[
+    {
+        "bill_id": "BILL0001",
+        "order_id": "ORD0001",
+        "table": "T6",
+        "customer_name": "prakash",
+        "customer_mobile": "9003075532",
+        "guests": 8,
+        "items": [
+            {
+                "code": "TH01",
+                "name": "Highway Delight Thali",
+                "quantity": 1,
+                "unit_price": 320,
+                "total_price": 320
+            },
+            {
+                "code": "S001",
+                "name": "Pyaaz Ki Kachori",
+                "quantity": 1,
+                "unit_price": 80,
+                "total_price": 80
+            },
+            {
+                "code": "M001",
+                "name": "Dal Baati Churma (Thali)",
+                "quantity": 1,
+                "unit_price": 280,
+                "total_price": 280
+            },
+            {
+                "code": "B001",
+                "name": "Bajra Roti",
+                "quantity": 1,
+                "unit_price": 20,
+                "total_price": 20
+            }
+        ],
+        "subtotal": 700,
+        "gst": 35.0,
+        "gst_rate": "5%",
+        "total": 735.0,
+        "timestamp": "2026-06-28 09:37:28"
+    },
+    {
+        "bill_id": "BILL0002",
+        "order_id": "ORD0002",
+        "table": "T4",
+        "customer_name": "diya singh",
+        "customer_mobile": "8003064478",
+        "guests": 8,
+        "items": [
+            {
+                "code": "S001",
+                "name": "Pyaaz Ki Kachori",
+                "quantity": 1,
+                "unit_price": 80,
+                "total_price": 80
+            },
+            {
+                "code": "S002",
+                "name": "Dal Baati (2 pcs)",
+                "quantity": 1,
+                "unit_price": 120,
+                "total_price": 120
+            },
+            {
+                "code": "S004",
+                "name": "Mawa Kachori",
+                "quantity": 2,
+                "unit_price": 90,
+                "total_price": 180
+            },
+            {
+                "code": "S006",
+                "name": "Hara Bhara Kabab (6 pcs)",
+                "quantity": 2,
+                "unit_price": 150,
+                "total_price": 300
+            },
+            {
+                "code": "S008",
+                "name": "Aloo Tikki Chaat",
+                "quantity": 1,
+                "unit_price": 80,
+                "total_price": 80
+            },
+            {
+                "code": "M001",
+                "name": "Dal Baati Churma (Thali)",
+                "quantity": 1,
+                "unit_price": 280,
+                "total_price": 280
+            },
+            {
+                "code": "M002",
+                "name": "Gatte Ki Sabzi",
+                "quantity": 1,
+                "unit_price": 160,
+                "total_price": 160
+            },
+            {
+                "code": "M003",
+                "name": "Gulab jamin ki sabzi",
+                "quantity": 2,
+                "unit_price": 200,
+                "total_price": 400
+            },
+            {
+                "code": "M005",
+                "name": "Panchmel Dal",
+                "quantity": 1,
+                "unit_price": 150,
+                "total_price": 150
+            },
+            {
+                "code": "M006",
+                "name": "Malai kofta",
+                "quantity": 1,
+                "unit_price": 160,
+                "total_price": 160
+            },
+            {
+                "code": "M007",
+                "name": "Paneer Laal Mirch",
+                "quantity": 2,
+                "unit_price": 240,
+                "total_price": 480
+            },
+            {
+                "code": "M008",
+                "name": "Rajasthani Kadhi",
+                "quantity": 1,
+                "unit_price": 140,
+                "total_price": 140
+            },
+            {
+                "code": "M012",
+                "name": "Shahi Paneer",
+                "quantity": 1,
+                "unit_price": 240,
+                "total_price": 240
+            },
+            {
+                "code": "M013",
+                "name": "Kaju dakh (Special)",
+                "quantity": 1,
+                "unit_price": 300,
+                "total_price": 300
+            },
+            {
+                "code": "M014",
+                "name": "Lasan chutney",
+                "quantity": 1,
+                "unit_price": 240,
+                "total_price": 240
+            },
+            {
+                "code": "TH01",
+                "name": "Highway Delight Thali",
+                "quantity": 1,
+                "unit_price": 320,
+                "total_price": 320
+            },
+            {
+                "code": "B003",
+                "name": "Tandoori Roti",
+                "quantity": 2,
+                "unit_price": 25,
+                "total_price": 50
+            },
+            {
+                "code": "B004",
+                "name": "Butter Naan",
+                "quantity": 1,
+                "unit_price": 40,
+                "total_price": 40
+            },
+            {
+                "code": "B005",
+                "name": "Laccha Paratha",
+                "quantity": 2,
+                "unit_price": 50,
+                "total_price": 100
+            },
+            {
+                "code": "R003",
+                "name": "Rajasthani Pulao",
+                "quantity": 3,
+                "unit_price": 160,
+                "total_price": 480
+            },
+            {
+                "code": "DR01",
+                "name": "Masala Chaas (Buttermilk)",
+                "quantity": 4,
+                "unit_price": 50,
+                "total_price": 200
+            },
+            {
+                "code": "DR05",
+                "name": " Makhaniya Lassi (Sweet)",
+                "quantity": 5,
+                "unit_price": 85,
+                "total_price": 425
+            }
+        ],
+        "subtotal": 4925,
+        "gst": 246.25,
+        "gst_rate": "5%",
+        "total": 5171.25,
+        "timestamp": "2026-06-28 12:42:05"
+    }
+]
